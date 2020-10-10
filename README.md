@@ -3,7 +3,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Shivanjan%20Chakravorty-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivanjan/)](https://www.linkedin.com/in/shivanjan/) [![Gmail Badge](https://img.shields.io/badge/-schakravorty846-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:schakravorty846@gmail.com)](mailto:schakravorty846@gmail.com) [![Github Badge](https://img.shields.io/github/followers/Glitchfix?label=Glitchfix&logo=github&style=plastic)](https://github.com/Glitchfix)
 
-In order to begin with know more about Braile codes refert to this link [Braille Basics](http://www.brailleauthority.org/learn/braillebasic.pdf)
+In order to begin know more about Braile codes refer to this link [Braille Basics](http://www.brailleauthority.org/learn/braillebasic.pdf)
 
 Braille Translation
 ===================
